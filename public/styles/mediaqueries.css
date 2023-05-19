@@ -8,8 +8,8 @@
   font-size: 32px;
 }
 .text-xl {
-  font-size: 38px;
-  line-height: 38px;
+  font-size: 33px;
+  line-height: 33px;
 }
 
 /* Small devices (landscape phones, 640px and up) */
@@ -28,8 +28,8 @@
     font-size: 48px;
   }
   .text-xl {
-    font-size: 74px;
-    line-height: 74px;
+    font-size: 69px;
+    line-height: 69px;
   }
 }
 @media (max-width: 640px) {
@@ -55,8 +55,8 @@
     font-size: 40px;
   }
   .text-xl {
-    font-size: 90px;
-    line-height: 90px;
+    font-size: 85px;
+    line-height: 85px;
   }
   .menu-toggle {
     display: none;
@@ -82,8 +82,8 @@
     font-size: 40px;
   }
   .text-xl {
-    font-size: 114px;
-    line-height: 114px;
+    font-size: 109px;
+    line-height: 109px;
   }
 }
 
@@ -103,7 +103,7 @@
     font-size: 40px;
   }
   .text-xl {
-    font-size: 128px;
+    font-size: 123px;
   }
 }
 
@@ -124,6 +124,6 @@
     font-size: 48px;
   }
   .text-xl {
-    font-size: 128px;
+    font-size: 123px;
   }
 }
